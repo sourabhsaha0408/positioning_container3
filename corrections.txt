@@ -1,0 +1,3 @@
+the gap between the text and image in target picture was supposed to be lesser
+the gap between the text and image in output picture is more than expected
+since i thought that the gap is looking good in my viewport hence the gap of the target picture was ignored and this should not have been done since it is overridding the client expectations

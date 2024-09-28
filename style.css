@@ -1,0 +1,77 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    background-color: #A6A6A6;
+}
+#groupofrightnavicons{
+    display: flex;
+    align-items: center;
+}
+#leftnavicon{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    margin: 0px 0px 0px 250px;
+}
+.rightnavicons{
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0px 15px;
+}
+.LOGO{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 0px 250px 0px 30px;
+}
+#introduceandbuttonandimage{
+    display: flex;
+    justify-content: space-between;
+    background-color: #A6A6A6;
+    height: 500px;
+}
+#introduceandbutton{
+    width: 400px;
+    margin: 100px 0px 0px 250px;
+}
+.welcomenote{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+.introduce{
+    font-size: 10px;
+    margin-bottom: 30px;
+}
+button{
+    background-color: #1E1D19;
+    color: #7B7A79;
+    padding: 20px;
+    width: 200px;
+}
+#womanholdingphotoframe{
+    width: 350px;
+    height: 500px;
+    margin-right: 250px;
+    position: relative;
+    top: 80px;
+}
+#introduceandimage{
+    display: flex;
+    justify-content: space-between;
+    background-color: #D7DEE6;
+}
+#womanwithwindowbg{
+    width: 350px;
+    height: 500px;
+    margin: 150px 0px 0px 250px;
+}
+#welcomenoteandintroduce{
+    width: 400px;
+    margin: 180px 250px 0px 0px;
+}
